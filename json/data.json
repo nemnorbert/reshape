@@ -1,0 +1,50 @@
+{
+    "logo": "teszt",
+    "name": ["RE","SHAPE"],
+    "lang": "hu",
+    "desc": "Ez egy leiras",
+    "nav_btn": "Kezdjük",
+    "menu": [
+        ["Főoldal", "home"],
+        ["Csomagok", "package"],
+        ["Hasznos tartalmak", ""],
+        ["Személyes konzultáció", ""],
+        ["Rólunk", "about"],
+        ["Kapcsolat", "contact"]
+    ],
+    "mobile_menu": [
+        ["Főoldal", "home", "bi bi-house-fill"],
+        ["Csomagok", "package", "bi bi-box-seam-fill"],
+        ["Rólunk", "about", "bi bi-person-circle"],
+        ["Kapcsolat", "contact", "bi bi-chat-dots-fill"]
+    ],
+    "package": [
+        {
+            "title": "Start",
+            "mdesc": "Amennyiben eldöntötted, hogy eljött a változtatás ideje! Belépő csomagunk egy olyan fitt életmódhoz, amelyben egy újszerű, a valós élethez optimalizált, a hétköznapokba könnyen adaptálható étrendet és mozgásformát kínálunk.",
+            "desc": [
+                "Egyénre szabott mozaik-étrend",
+                "Életvitelhez igazított mozgásforma és edzésterv",
+                "Kontroll havonta"
+            ]
+        },
+        {
+            "title": "New Horizon",
+            "mdesc": "A mozgásban lévők szintlépésére. Progresszív csomagunk, amelyben új kapukat nyitunk a sportban már otthonosan mozgók számára.",
+            "desc": [
+                "A mozgásban lévők szintlépésére",
+                "mozaik-étrenddel és edzéstervvel,",
+                "Heti kontrollal"
+            ]
+        },
+        {
+            "title": "Sport Fanatic",
+            "mdesc": "A sport szerelmeseinek és profiknak. Professzionális csomagunk, amelyben profiknak és sportfanatikusoknak nyújtunk segítő kezet a végső simítások megtételéhez.",
+            "desc": [
+                "Egyénre szabott étrend",
+                "Specifikus edzésterv",
+                "Intenzív kontroll"
+            ]
+        }
+    ]
+}
